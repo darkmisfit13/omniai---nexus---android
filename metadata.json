@@ -1,0 +1,10 @@
+{
+  "name": "Omni Keyboard AI",
+  "description": "OmniAI - Nexus: Autonomous Companion & Intelligent Mobile Interface with real-time screen cognition and consolidated intelligence.",
+  "requestFramePermissions": [
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

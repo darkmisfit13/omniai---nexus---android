@@ -1,0 +1,11 @@
+<resources>
+    <color name="canvas_root_black">#000000</color>
+    <color name="obsidian_purple">#0A071B</color>
+    <color name="border_purple">#1E1642</color>
+    <color name="border_highlight">#2A2254</color>
+    <color name="purplish_blue">#0C00CA</color>
+    <color name="purplish_blue_glow">#1A0FE0</color>
+    <color name="baby_blue">#00FFFF</color>
+    <color name="text_primary">#F1F5F9</color>
+    <color name="text_muted">#948EB5</color>
+</resources>

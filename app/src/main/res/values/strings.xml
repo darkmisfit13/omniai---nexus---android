@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Omni Keyboard AI</string>
+    <string name="tagline">Autonomous Companion &amp; Intelligent Mobile Interface</string>
+    <string name="tab_keyboard">Keyboard</string>
+    <string name="tab_vision">Screen Vision</string>
+    <string name="tab_call">Live Call</string>
+    <string name="tab_studios">Studios</string>
+    <string name="tab_telemetry">Telemetry</string>
+    <string name="tab_vault">Vault</string>
+    <string name="tab_identity">Identity</string>
+</resources>
